@@ -114,18 +114,24 @@ Linked to League through LeagueID.
 ![Dic 7](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Screenshot%202024-09-30%20at%201.03.10%20AM.png)
 ![Dic 8](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Screenshot%202024-09-30%20at%201.03.14%20AM.png)
 ### Queries
-#3.Selects all teams and finds their total number of wins. This is useful to see which teams are performing the best and worst at any given time. And the managers can decide whether or not they should trade.
+#3.Selects all teams and finds their total number of wins. 
 ![Q3](https://github.com/lwh12347/Mist-4610/blob/main/Q3.png)
 
-#4.Selects only teams who score an average greater than 80 points. This query is useful for displaying scoring numbers across the league. This type of query is important for determining which teams perform at a certain level to show the general performance of the league while excluding outliers.
+This is useful to see which teams are performing the best and worst at any given time. And the managers can decide whether or not they should trade.
+
+#4.Selects only teams who score an average greater than 80 points. 
 ![Q4](https://github.com/lwh12347/Mist-4610/blob/main/Q4.png)
+
+This query is useful for displaying scoring numbers across the league. This type of query is important for determining which teams perform at a certain level to show the general performance of the league while excluding outliers.
 
 #5. Find noteworthy players who scored over 20 in a single game
 ![Q2](https://github.com/YonatanWoldetenssaie/FantasyFootball/blob/main/Query5.PNG) 
+
 This complex query identifies players who have at least played one game during the season and had noteworthy games where they scored a lot of points. Its results contain the team of the player, name of the player, how many points they score ,and the date they accomplished it. This would be used to help fantasy football players to choose players who are currently active and are relatively good to choose for their fantasy team. 
 
 #6. Get player performance in a specific game
 ![Q3](https://github.com/YonatanWoldetenssaie/FantasyFootball/blob/main/Query6.PNG)
+
 This simple query shows player performance in a given game and how many fantasy points, a person would gain from having that player on their fantasy team. PlayerStatistics.GameID can be changed to equal any specific GameID, so that data from any game week can be tracked efficiently. 
 
 #9.Select teams whose average points scored are higher than league-wide average points scored by all teams.
