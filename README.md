@@ -114,6 +114,12 @@ Linked to League through LeagueID.
 ![Dic 7](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Screenshot%202024-09-30%20at%201.03.10%20AM.png)
 ![Dic 8](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Screenshot%202024-09-30%20at%201.03.14%20AM.png)
 ### Queries
+#1. This query joins Player and PlayerStatistics tables based on the PlayerID and retrieves player information, such as name, position and team and also retrieves their game statistics, such as yards and touchdowns. This is useful to compare each players statistics.
+![Q1](https://github.com/Kenttra/MIST-4610-P1/blob/main/Q1)
+
+#2. This query selects all columns from the Player table where the players position matches “QB” using REGEXP. This is useful to sort out each position in the data, taking a look at all players both available and on rosters.
+![Q2](https://github.com/Kenttra/MIST-4610-P1/blob/main/Q2)
+
 #3.Selects all teams and finds their total number of wins. 
 ![Q3](https://github.com/lwh12347/Mist-4610/blob/main/Q3.png)
 
