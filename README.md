@@ -1,6 +1,6 @@
 # MIST-4610-Project-1
 ### Group 2:
-Yonatan Woldetenssaie https://github.com/YonatanWoldetenssaie/FantasyFootball 
+Yonatan Woldetenssaie - 811294688 https://github.com/YonatanWoldetenssaie/FantasyFootball 
 
 Sahil Panchal - 811952439 - https://github.com/SahilPnc/MIST-4610-Project-1-
 
